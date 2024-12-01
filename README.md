@@ -40,7 +40,7 @@ Ministry of Education, Government of India
 Create a dynamic and scalable Alumni Association platform that strengthens the bond between alumni and their alma mater. The platform will serve as a one-stop solution for networking, mentorship, donations, event participation, and showcasing alumni achievements through web and mobile applications.
 
 ## Proposed Solution / Architecture Diagram
-![alt text](image.webp)
+![alt text](image.png)
 
 **Solution**:
 1. **User-Friendly Interface**: Accessible web and mobile apps with intuitive design for seamless interaction.
