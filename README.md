@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 30.12.2024
-## Register Number:
-## Name:
+## Register Number: 24900596
+## Name: Kishore B
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
