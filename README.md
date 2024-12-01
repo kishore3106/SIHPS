@@ -5,18 +5,18 @@
 ## Problem Title
 Comprehensive Alumni Engagement Platform for Educational Institutions
 ## Problem Description
-Background:
+**Background**:
 Alumni associations are a critical component of educational institutions, bridging the gap between alumni and their alma mater. These associations play a vital role in maintaining relationships, fostering professional networking, encouraging philanthropic contributions, and inspiring current students through alumni achievements. However, many institutions struggle to maintain consistent and meaningful engagement with their alumni due to outdated systems, limited resources, and lack of innovative platforms.
 
-Challenges Faced:
-1. Fragmented Communication: Many alumni lose touch with their institutions due to a lack of centralized and easily accessible platforms.
-2. Limited Networking Opportunities: Alumni struggle to connect with peers, mentors, and job opportunities that align with their interests or career goals.
-3. Inefficient Donation Systems: Without secure and transparent donation processes, alumni are hesitant to contribute to institutional growth.
-4. Poor Event Management: Organizing alumni reunions, webinars, or workshops becomes a logistical challenge without an integrated system for announcements, registrations, and feedback.
-5. Lack of Recognition: Success stories of alumni often go unnoticed, missing the opportunity to inspire current students and instill pride among graduates.
-6. Feedback Channels: Institutions struggle to gather insights and suggestions from their alumni for continuous improvement.
+**Challenges Faced**:
+1. **Fragmented Communication**: Many alumni lose touch with their institutions due to a lack of centralized and easily accessible platforms.
+2. **Limited Networking Opportunities**: Alumni struggle to connect with peers, mentors, and job opportunities that align with their interests or career goals.
+3. **Inefficient Donation Systems**: Without secure and transparent donation processes, alumni are hesitant to contribute to institutional growth.
+4. **Poor Event Management**: Organizing alumni reunions, webinars, or workshops becomes a logistical challenge without an integrated system for announcements, registrations, and feedback.
+5. **Lack of Recognition**: Success stories of alumni often go unnoticed, missing the opportunity to inspire current students and instill pride among graduates.
+6. **Feedback Channels**: Institutions struggle to gather insights and suggestions from their alumni for continuous improvement.
 
-Proposed Solution:
+**Proposed Solution**:
 The creation of a robust Alumni Association platform, accessible via both web and mobile applications, will address these challenges. The platform will:
 
 1. Provide easy and secure alumni registration and profile management.
@@ -26,7 +26,7 @@ The creation of a robust Alumni Association platform, accessible via both web an
 5. Manage events effectively with automated tools for planning, registration, and reminders.
 6. Incorporate feedback mechanisms for continuous development and engagement strategies.
 
-Impact:
+**Impact**:
 By addressing these challenges, the platform will:
 
 1. Strengthen alumni relationships and increase their participation in institutional growth.
@@ -42,13 +42,13 @@ Create a dynamic and scalable Alumni Association platform that strengthens the b
 ## Proposed Solution / Architecture Diagram
 ![alt text](image.webp)
 
-Solution:
+**Solution**:
 1. **User-Friendly Interface**: Accessible web and mobile apps with intuitive design for seamless interaction.
 2. **Centralized Backend**: A robust backend to manage user data, events, jobs, and donations securely.
 3. **Key Features**: Alumni registration, secure donation portal, job board, networking hub, event management, and success story highlights.
 4. **Security**: End-to-end encryption, secure authentication (OAuth 2.0), and GDPR compliance.
 
-Architecture Diagram:
+**Architecture Diagram**:
 1. **Frontend** → Web (React.js) and Mobile (Flutter).
 2. **API Gateway** → Handles all requests and routes them to the backend.
 3. **Backend** → Built on Django/Node.js with a RESTful API.
